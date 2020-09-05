@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TTFS</string>
+    <string name="question1">What are the two official languages for Android development? \n\n A) Kotlin and Java \n\n B) Java and Python \n\n C) Kotlin and Python</string>
+    <string name="ButtonA">A</string>
+    <string name="ButtonB">B</string>
+    <string name="ButtonC">C</string>
+</resources>
